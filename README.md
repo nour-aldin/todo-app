@@ -2,8 +2,8 @@
 Todo-app to keep to add your todos and keep tracking of them using reactjs and Tailwindcss. 
 <table>
   <tr>
-    <td align="center" width="200px">Home Page</td>
-     <td align="center" width="200px">Add Task</td>
+    <td align="center" width="600px">Home Page</td>
+     <td align="center" width="600px">Add Task</td>
   </tr>
   <tr>
     <td valign="top"><img src="screenShots\Home.png"></td>
