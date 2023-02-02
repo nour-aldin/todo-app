@@ -2,7 +2,7 @@
 Todo-app to keep to add your todos and keep tracking of them using reactjs and Tailwindcss. 
 <table>
   <tr>
-    <td align="center">Home Page</td>
+    <td align="center" width="200px">Home Page</td>
      <td align="center">Add Task</td>
   </tr>
   <tr>
